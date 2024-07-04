@@ -9,6 +9,10 @@ background: https://sli.dev/demo-cover.png
 
 ### 2024/07/10 水上 皓登
 
+<!--
+ああああああ
+-->
+
 ---
 layout: cover
 background: https://sli.dev/demo-cover.png
@@ -23,11 +27,11 @@ layout: cover
 background: https://sli.dev/demo-cover.png
 ---
 
-# いかに理解を深めるタイミングを早くするか
+# いかに早く理解するか
+# いかに深く理解するか
 
 <!-- ああ -->
 
-<!-- ああああ -->
 
 ---
 
@@ -86,6 +90,8 @@ TDD はどこから？
 Java ならテストコードを生やすことも可能。
 
 フラクタル構造をもつ
+
+テストはデザイン
 
 ---
 
