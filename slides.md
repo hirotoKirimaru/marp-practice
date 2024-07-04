@@ -10,11 +10,17 @@ background: https://sli.dev/demo-cover.png
 ### 2024/07/10 水上 皓登
 
 ---
+layout: cover
+background: https://sli.dev/demo-cover.png
+---
 
 # 水上が社会人として働いてわかった
 
 # うまく働くコツ
 
+---
+layout: cover
+background: https://sli.dev/demo-cover.png
 ---
 
 # いかに理解を深めるタイミングを早くするか
