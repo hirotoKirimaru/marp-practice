@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "slidev",
+    "dev_path": "slidev TDD/slides.md",
     "build": "slidev build",
     "export": "slidev export"
   },
