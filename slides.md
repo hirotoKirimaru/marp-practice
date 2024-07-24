@@ -9,6 +9,20 @@ background: https://sli.dev/demo-cover.png
 
 ### 2024/07/26 きり丸水上 皓登
 
+<!-- 
+プロンプト
+-->
+
+<!-- 
+10分間のLTのための資料作成をします。
+次のタイトルで観客を引き付けるような目次を作ってください
+
+# Pythonで早くAPI作るならFastAPIがオススメ
+
+ -->
+
+
+
 <!--
 転記する資料
 https://docs.google.com/presentation/d/1RW6hdXOP9trEOsLC3r6eHz6-O01gxbrWOJmbp8O15N8/edit#slide=id.g1012a6ecc2d_0_6
