@@ -21,7 +21,8 @@ background: https://sli.dev/demo-cover.png
 
  -->
 
-
+FastAPIの選定理由
+OpenAPIが簡単に作られるので、フロント目線で強い
 
 <!--
 転記する資料
